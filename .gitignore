@@ -32,6 +32,12 @@ bld/
 [Oo]ut/
 [Ll]og/
 [Ll]ogs/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Logs]/
+/[UserSettings]/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
